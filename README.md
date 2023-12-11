@@ -57,7 +57,7 @@
 <br>
 <b>Thank you very much for using my projects! If you want to go a step further and support my open source work, buy me a coffee:</b>
 <a href="https://www.buymeacoffee.com/j.grizzley" target="_blank">
-<img src="https://bizcolumnist.com/wp-content/uploads/2022/12/bmc-full-logo-1024x248.png" alt="Botón de Imagen" width="160" height="45">> 
+<img src="https://bizcolumnist.com/wp-content/uploads/2022/12/bmc-full-logo-1024x248.png" alt="Botón de Imagen" width="150" height="50">> 
 </div>
 
 <!--horizontal divider(gradiant)-->
