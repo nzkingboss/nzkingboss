@@ -50,9 +50,11 @@
 </p>
 <br>
 
-<summary align="center">
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">⚡ Top Languages 💾</h2></summary>
+  </ul>
+</div>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
