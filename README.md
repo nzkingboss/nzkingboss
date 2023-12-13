@@ -93,9 +93,7 @@ You can hire me as on LinkedIn as <a href="https://www.linkedin.com/in/junior-ra
 
 ## Phrase of the month 😎
 
-**<a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
-
-“Cualquier código escrito que no hayas mirado en los últimos seis meses bien podría haber sido escrito por otra persona” 
+“Any code written that you haven't looked at in the last six months could very well have been written by someone else.” 
 – Eagleson’s Law
 
   </td>
