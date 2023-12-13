@@ -78,6 +78,7 @@
 <br>
 	  
 <a href="https://www.buymeacoffee.com/j.grizzley" target="_blank">
+	
 <img src="https://bizcolumnist.com/wp-content/uploads/2022/12/bmc-full-logo-1024x248.png" alt="Botón de Imagen" width="180" height="60">
 </div>
 
