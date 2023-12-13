@@ -74,11 +74,8 @@
 <div id="user-content-toc">
   <ul align="center">
 <b>Thank U very much for using my projects! If you want to go a step further and support my open source work, buy me a coffee:</b>
-	  
 <br>
-	  
 <a href="https://www.buymeacoffee.com/j.grizzley" target="_blank">
-	
 <img src="https://bizcolumnist.com/wp-content/uploads/2022/12/bmc-full-logo-1024x248.png" alt="Botón de Imagen" width="180" height="60">
 </div>
 
@@ -88,9 +85,9 @@
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:juniorjnr730@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on LinkedIn <a href="https://www.linkedin.com/in/junior-ramirez-/"></a> for jobs or web projects
 
   </td>
   <td width="50%" valign="top">
