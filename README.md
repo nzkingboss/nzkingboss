@@ -86,7 +86,7 @@
 ## Let's Work on Your Project Together!
 
 If you have any questions about front-end web development, feel free to <a href="mailto:juniorjnr730@gmail.com">contact me through email</a> me.
-You can hire me as a freelancer on LinkedIn <a href="https://www.linkedin.com/in/junior-ramirez-/">Junior Ramirez</a> for jobs or web projects
+You can hire me as on LinkedIn <a href="https://www.linkedin.com/in/junior-ramirez-/">Junior Ramirez</a> for jobs or web projects
 
   </td>
   <td width="50%" valign="top">
