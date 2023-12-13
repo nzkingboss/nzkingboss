@@ -91,12 +91,12 @@ You can hire me as on LinkedIn as <a href="https://www.linkedin.com/in/junior-ra
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+## Phrase of the month 😎
 
 **<a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
+“Cualquier código escrito que no hayas mirado en los últimos seis meses bien podría haber sido escrito por otra persona” 
+– Eagleson’s Law
 
   </td>
   </tr>
@@ -108,4 +108,4 @@ You can hire me as on LinkedIn as <a href="https://www.linkedin.com/in/junior-ra
 ----------------------------------------------------------------------
 Credit: [nzkingboss](https://github.com/nzkingboss)
 
-Last Edited on: 11/12/2023
+Last Edited on: 13/12/2023
