@@ -73,7 +73,7 @@
 </div>
 <div id="user-content-toc">
   <ul align="center">
-<b>Thank you very much for using my projects! If you want to go a step further and support my open source work, buy me a coffee:</b>
+<b>Thank U very much for using my projects! If you want to go a step further and support my open source work, buy me a coffee:</b>
 <br>
 <a href="https://www.buymeacoffee.com/j.grizzley" target="_blank">
 <img src="https://bizcolumnist.com/wp-content/uploads/2022/12/bmc-full-logo-1024x248.png" alt="Botón de Imagen" width="180" height="60">
