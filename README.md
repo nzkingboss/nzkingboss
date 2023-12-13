@@ -57,7 +57,7 @@
 
 <p align="center">
 	<a href="https://github.com/nzkingboss">
-	<img src="https://github.com/nzkingboss?tab=repositories/?username=nzkingboss&langs_count=8&layout=compact" alt="nzkingboss">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzkingboss" alt="nzkingboss">
 	</a>
 	<br/>
 <br/>
