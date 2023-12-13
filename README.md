@@ -94,7 +94,7 @@ You can hire me as on LinkedIn as <a href="https://www.linkedin.com/in/junior-ra
 ## Phrase of the month 😎
 
 “Any code written that you haven't looked at in the last six months could very well have been written by someone else.” 
-– Eagleson’s Law
+<b>– Eagleson’s Law</b>
 
   </td>
   </tr>
