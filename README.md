@@ -50,6 +50,7 @@
 </p>
 <br>
 
+<b align="center">
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
