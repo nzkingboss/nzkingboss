@@ -66,10 +66,14 @@
 <br/>
 
 <!--profile visit count-->
-<div align="center">
-  
-<u>💖 Support the Project ☕</u>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">💖 Support the Project ☕</h2></summary>
+  </ul>
+</div>
+
 <br>
+
 <b>Thank you very much for using my projects! If you want to go a step further and support my open source work, buy me a coffee:</b>
 <br>
 <a href="https://www.buymeacoffee.com/j.grizzley" target="_blank">
