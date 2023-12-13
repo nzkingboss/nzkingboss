@@ -56,8 +56,8 @@
 </div>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+	<a href="https://github.com/nzkingboss">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzkingboss&langs_count=8&layout=compact" alt="nzkingboss">
 	</a>
 	<br/>
 <br/>
