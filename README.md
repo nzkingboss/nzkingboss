@@ -71,7 +71,8 @@
     <summary><h2 style="display: inline-block">💖 Support the Project ☕</h2></summary>
   </ul>
 </div>
-
+<div id="user-content-toc">
+  <ul align="center">
 <b>Thank you very much for using my projects! If you want to go a step further and support my open source work, buy me a coffee:</b>
 <br>
 <a href="https://www.buymeacoffee.com/j.grizzley" target="_blank">
