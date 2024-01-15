@@ -65,8 +65,6 @@
 </p>
 <br/>
 
-<!--profile visit count-->
-
 
 <table style="border: none">
   <tr>
