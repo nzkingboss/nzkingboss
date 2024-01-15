@@ -66,14 +66,7 @@
 <br/>
 
 <!--profile visit count-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">💖 Support the Project ☕</h2></summary>
-  </ul>
-</div>
-<div id="user-content-toc">
-  <ul align="center">
-</div>
+
 
 <table style="border: none">
   <tr>
