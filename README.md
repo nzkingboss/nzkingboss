@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,js,css,html,bootstrap,jquery,ps,ai,figma,github,mysql,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,js,css,html,typescript,bootstrap,jquery,ps,ai,figma,github,mysql,react,vscode&perline=14" />
   </a>
 </p>
 
@@ -87,4 +87,4 @@ You can hire me as on LinkedIn as <a href="https://www.linkedin.com/in/junior-ra
 ----------------------------------------------------------------------
 Credit: [nzkingboss](https://github.com/nzkingboss)
 
-<b>Last Edited on:</b> 11/09/2024
+<b>Last Edited on:</b> 05/06/2025
